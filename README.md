@@ -26,7 +26,7 @@ This code was tested using Python 3.10 and torch 2.0.1+cu118.
 
 ```
   cd ..
-  python run_primal_transformer.py
+  python run_transformer.py
 ```
 
 *  Train dual task (title -> expertise embedding)
